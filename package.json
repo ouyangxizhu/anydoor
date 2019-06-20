@@ -1,0 +1,18 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "Tiny NodeJS Static Web SERVER",
+  "main": "src/index.js",
+  "bin":{
+    "anydoor": "bin/anydoor"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "yargs": "^13.2.4"
+  }
+}
